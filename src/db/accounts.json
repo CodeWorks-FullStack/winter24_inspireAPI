@@ -1,0 +1,218 @@
+[
+  {
+    "_id": {
+      "$oid": "6615af31b500d41de2bfbe28"
+    },
+    "name": "John Doe",
+    "email": "john.doe@boring.domain",
+    "picture": "https://codeworks.blob.core.windows.net/public/assets/img/avatars/john.jpg"
+  },
+  {
+    "_id": {
+      "$oid": "6615af31b42adbbe9c069cc9"
+    },
+    "name": "Jane Doe",
+    "email": "jane.doe@boring.domain",
+    "picture": "https://codeworks.blob.core.windows.net/public/assets/img/avatars/jane.jpg"
+  },
+  {
+    "_id": {
+      "$oid": "6615af31934e4e7bc5bb9bef"
+    },
+    "name": "Bob Johnson",
+    "email": "bob.johnson@secure.server",
+    "picture": "https://codeworks.blob.core.windows.net/public/assets/img/avatars/bob.jpg"
+  },
+  {
+    "_id": {
+      "$oid": "6615af3118b6519506ebd7e1"
+    },
+    "name": "Alice Johnson",
+    "email": "alice.johnson@secure.server",
+    "picture": "https://codeworks.blob.core.windows.net/public/assets/img/avatars/alice2.png"
+  },
+  {
+    "_id": {
+      "$oid": "6615af31b7376d33f96399af"
+    },
+    "name": "Georgie",
+    "email": "georgie@pingpong.champ",
+    "picture": "https://codeworks.blob.core.windows.net/public/assets/img/avatars/georgie.png"
+  },
+  {
+    "_id": {
+      "$oid": "6615af3167a1034b1d3eb273"
+    },
+    "name": "Thorsten",
+    "email": "thorsten@pingpong.champ",
+    "picture": "https://codeworks.blob.core.windows.net/public/assets/img/avatars/thorsten.png"
+  },
+  {
+    "_id": {
+      "$oid": "6615af313b8dfc994a0e44b9"
+    },
+    "name": "Yubi",
+    "email": "yubi@pingpong.champ",
+    "picture": "https://codeworks.blob.core.windows.net/public/assets/img/avatars/yubi.png"
+  },
+  {
+    "_id": {
+      "$oid": "6615af31955d2c7d5f5b32c6"
+    },
+    "name": "Miles Samurai",
+    "email": "miles@neon.samurai",
+    "picture": "https://codeworks.blob.core.windows.net/public/assets/img/avatars/miles.jpg"
+  },
+  {
+    "_id": {
+      "$oid": "6615af31fcc19dedd08b642e"
+    },
+    "name": "Tsunami Samurai",
+    "email": "tsunami@neon.samurai",
+    "picture": "https://codeworks.blob.core.windows.net/public/assets/img/avatars/tsunami.jpg"
+  },
+  {
+    "_id": {
+      "$oid": "6615af312267d93aaac3ce58"
+    },
+    "name": "Kaiju Samurai",
+    "email": "kaiju@neon.samurai",
+    "picture": "https://codeworks.blob.core.windows.net/public/assets/img/avatars/kaiju.jpg"
+  },
+  {
+    "_id": {
+      "$oid": "6615af310c551fceca365392"
+    },
+    "name": "Wolverine",
+    "email": "wolverine@mutants.ink",
+    "picture": "https://codeworks.blob.core.windows.net/public/assets/img/avatars/wolverine.png"
+  },
+  {
+    "_id": {
+      "$oid": "6615af316e246bc9b496d6b2"
+    },
+    "name": "Storm",
+    "email": "storm@mutants.ink",
+    "picture": "https://codeworks.blob.core.windows.net/public/assets/img/avatars/storm.jpg"
+  },
+  {
+    "_id": {
+      "$oid": "6615af313bd257f89c48118e"
+    },
+    "name": "Cyclops",
+    "email": "cyclops@mutants.ink",
+    "picture": "https://codeworks.blob.core.windows.net/public/assets/img/avatars/cyclops.jpg"
+  },
+  {
+    "_id": {
+      "$oid": "6615af31b2a02d6c2a05be55"
+    },
+    "name": "Jean Grey",
+    "email": "jean.grey@mutants.ink",
+    "picture": "https://codeworks.blob.core.windows.net/public/assets/img/avatars/jean.webp"
+  },
+  {
+    "_id": {
+      "$oid": "6615af31cf9425a6e85c8e6e"
+    },
+    "name": "Beast",
+    "email": "beast@mutants.ink",
+    "picture": "https://codeworks.blob.core.windows.net/public/assets/img/avatars/beat.GIF"
+  },
+  {
+    "_id": {
+      "$oid": "6615af3174bda64f01441c63"
+    },
+    "name": "Nightcrawler",
+    "email": "nightcrawler@mutants.ink",
+    "picture": "https://codeworks.blob.core.windows.net/public/assets/img/avatars/nightcrawler.png"
+  },
+  {
+    "_id": {
+      "$oid": "6615af318cd3d77a0e10457d"
+    },
+    "name": "Harry Potter",
+    "email": "h.potter@hogwarts.edu",
+    "picture": "https://codeworks.blob.core.windows.net/public/assets/img/avatars/harry.png"
+  },
+  {
+    "_id": {
+      "$oid": "6615af317362770a35f5425f"
+    },
+    "name": "Hermione Granger",
+    "email": "h.granger@hogwarts.edu",
+    "picture": "https://codeworks.blob.core.windows.net/public/assets/img/avatars/hermonie.png"
+  },
+  {
+    "_id": {
+      "$oid": "6615af3133fcec640d69c0f0"
+    },
+    "name": "Ron Weasley",
+    "email": "r.weasley@hogwarts.edu",
+    "picture": "https://codeworks.blob.core.windows.net/public/assets/img/avatars/ron.jpg"
+  },
+  {
+    "_id": {
+      "$oid": "6615af3138fa4b9dafbd8bf0"
+    },
+    "name": "Albus Dumbledore",
+    "email": "a.dumbledore@hogwarts.edu",
+    "picture": "https://codeworks.blob.core.windows.net/public/assets/img/avatars/dumbledore.gif"
+  },
+  {
+    "_id": {
+      "$oid": "6615af3127c842b612f13f71"
+    },
+    "name": "Severus Snape",
+    "email": "s.snape@hogwarts.edu",
+    "picture": "https://codeworks.blob.core.windows.net/public/assets/img/avatars/snape.jpg"
+  },
+  {
+    "_id": {
+      "$oid": "6615af319c56355e7f8873fb"
+    },
+    "name": "Hagrid",
+    "email": "hagrid@hogwarts.edu",
+    "picture": "https://codeworks.blob.core.windows.net/public/assets/img/avatars/hagrid.jpg"
+  },
+  {
+    "_id": {
+      "$oid": "6615af3176f93ec03623a2f6"
+    },
+    "name": "Joseph Joestar",
+    "email": "jojo@speedwagon.foundation",
+    "picture": "https://codeworks.blob.core.windows.net/public/assets/img/avatars/jojo.jpg"
+  },
+  {
+    "_id": {
+      "$oid": "6615af314d61cc65ae5b9e37"
+    },
+    "name": "Jotaro Kujo",
+    "email": "jotaro@speedwagon.foundation",
+    "picture": "https://codeworks.blob.core.windows.net/public/assets/img/avatars/jotaro.jpg"
+  },
+  {
+    "_id": {
+      "$oid": "6615af31a77d7cd5ca57ed31"
+    },
+    "name": "Caesar Zeppeli",
+    "email": "c.zeppeli@speedwagon.foundation",
+    "picture": "https://codeworks.blob.core.windows.net/public/assets/img/avatars/caesar.jpg"
+  },
+  {
+    "_id": {
+      "$oid": "6615af319be0007ccd4b7f95"
+    },
+    "name": "Jonathan Joestar",
+    "email": "jonathan.joestar@speedwagon.foundation",
+    "picture": "https://codeworks.blob.core.windows.net/public/assets/img/avatars/jonathan.jpg"
+  },
+  {
+    "_id": {
+      "$oid": "6615af313b349e9155a03d34"
+    },
+    "name": "Dio Brando",
+    "email": "dio@dio.dio",
+    "picture": "https://codeworks.blob.core.windows.net/public/assets/img/avatars/dio.gif"
+  }
+]

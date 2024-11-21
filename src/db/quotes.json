@@ -1,0 +1,446 @@
+[
+  {
+    "body": "Courage is not the absence of fear, but the triumph over it.",
+    "authorId": {
+      "$oid": "6615af31a77d7cd5ca57ed31"
+    }
+  },
+  {
+    "body": "The ultimate test of a gentleman is not where he stands in moments of comfort and convenience, but where he stands at times of challenge and controversy.",
+    "authorId": {
+      "$oid": "6615af31a77d7cd5ca57ed31"
+    }
+  },
+  {
+    "body": "Your next line is... 'I can't believe you've done this!'",
+    "authorId": {
+      "$oid": "6615af3176f93ec03623a2f6"
+    }
+  },
+  {
+    "body": "It's not a matter of can or can't. There are some things in life you just do.",
+    "authorId": {
+      "$oid": "6615af3176f93ec03623a2f6"
+    }
+  },
+  {
+    "body": "I won't forgive anyone who hurts my friends.",
+    "authorId": {
+      "$oid": "6615af314d61cc65ae5b9e37"
+    }
+  },
+  {
+    "body": "Good grief.",
+    "authorId": {
+      "$oid": "6615af314d61cc65ae5b9e37"
+    }
+  },
+  {
+    "body": "I, Jonathan Joestar, will not run away!",
+    "authorId": {
+      "$oid": "6615af319be0007ccd4b7f95"
+    }
+  },
+  {
+    "body": "It doesn't matter what happens to me. But I will protect my friends!",
+    "authorId": {
+      "$oid": "6615af319be0007ccd4b7f95"
+    }
+  },
+  {
+    "body": "Muda muda muda!",
+    "authorId": {
+      "$oid": "6615af313b349e9155a03d34"
+    }
+  },
+  {
+    "body": "You thought it was [quote], but it was I, Dio!",
+    "authorId": {
+      "$oid": "6615af313b349e9155a03d34"
+    }
+  },
+  {
+    "body": "I've always believed that a name doesn't define who you are.",
+    "authorId": {
+      "$oid": "6615af31b500d41de2bfbe28"
+    }
+  },
+  {
+    "body": "Simplicity is the ultimate sophistication.",
+    "authorId": {
+      "$oid": "6615af31b500d41de2bfbe28"
+    }
+  },
+  {
+    "body": "Every accomplishment starts with the decision to try.",
+    "authorId": {
+      "$oid": "6615af31b500d41de2bfbe28"
+    }
+  },
+  {
+    "body": "Life is too short to waste time hating anyone.",
+    "authorId": {
+      "$oid": "6615af31b42adbbe9c069cc9"
+    }
+  },
+  {
+    "body": "Do what you can, with what you have, where you are.",
+    "authorId": {
+      "$oid": "6615af31b42adbbe9c069cc9"
+    }
+  },
+  {
+    "body": "Success is not final, failure is not fatal: It is the courage to continue that counts.",
+    "authorId": {
+      "$oid": "6615af31b42adbbe9c069cc9"
+    }
+  },
+  {
+    "body": "The only limit to our realization of tomorrow will be our doubts of today.",
+    "authorId": {
+      "$oid": "6615af31934e4e7bc5bb9bef"
+    }
+  },
+  {
+    "body": "It is during our darkest moments that we must focus to see the light.",
+    "authorId": {
+      "$oid": "6615af31934e4e7bc5bb9bef"
+    }
+  },
+  {
+    "body": "Believe you can and you're halfway there.",
+    "authorId": {
+      "$oid": "6615af31934e4e7bc5bb9bef"
+    }
+  },
+  {
+    "body": "Sometimes the smallest step in the right direction ends up being the biggest step of your life.",
+    "authorId": {
+      "$oid": "6615af3118b6519506ebd7e1"
+    }
+  },
+  {
+    "body": "Life is like riding a bicycle. To keep your balance, you must keep moving.",
+    "authorId": {
+      "$oid": "6615af3118b6519506ebd7e1"
+    }
+  },
+  {
+    "body": "In the end, we only regret the chances we didn't take.",
+    "authorId": {
+      "$oid": "6615af3118b6519506ebd7e1"
+    }
+  },
+  {
+    "body": "Ping pong is more than a sport; it's a way of life.",
+    "authorId": {
+      "$oid": "6615af31b7376d33f96399af"
+    }
+  },
+  {
+    "body": "With dedication and practice, anything is possible.",
+    "authorId": {
+      "$oid": "6615af31b7376d33f96399af"
+    }
+  },
+  {
+    "body": "Stay focused and keep aiming for the top.",
+    "authorId": {
+      "$oid": "6615af31b7376d33f96399af"
+    }
+  },
+  {
+    "body": "Winning is not everything, but making the effort to win is.",
+    "authorId": {
+      "$oid": "6615af3167a1034b1d3eb273"
+    }
+  },
+  {
+    "body": "Strength does not come from physical capacity. It comes from an indomitable will.",
+    "authorId": {
+      "$oid": "6615af3167a1034b1d3eb273"
+    }
+  },
+  {
+    "body": "The difference between the impossible and the possible lies in a person's determination.",
+    "authorId": {
+      "$oid": "6615af3167a1034b1d3eb273"
+    }
+  },
+  {
+    "body": "Persistence and determination alone are omnipotent.",
+    "authorId": {
+      "$oid": "6615af313b8dfc994a0e44b9"
+    }
+  },
+  {
+    "body": "Dream big, work hard, stay focused, and surround yourself with good people.",
+    "authorId": {
+      "$oid": "6615af313b8dfc994a0e44b9"
+    }
+  },
+  {
+    "body": "You are never too old to set another goal or to dream a new dream.",
+    "authorId": {
+      "$oid": "6615af313b8dfc994a0e44b9"
+    }
+  },
+  {
+    "body": "Embrace challenges and use them as stepping stones to success.",
+    "authorId": {
+      "$oid": "6615af31955d2c7d5f5b32c6"
+    }
+  },
+  {
+    "body": "Success is not the key to happiness. Happiness is the key to success.",
+    "authorId": {
+      "$oid": "6615af31955d2c7d5f5b32c6"
+    }
+  },
+  {
+    "body": "The only limit to our realization of tomorrow will be our doubts of today.",
+    "authorId": {
+      "$oid": "6615af31955d2c7d5f5b32c6"
+    }
+  },
+  {
+    "body": "Strive for progress, not perfection.",
+    "authorId": {
+      "$oid": "6615af31fcc19dedd08b642e"
+    }
+  },
+  {
+    "body": "Be yourself; everyone else is already taken.",
+    "authorId": {
+      "$oid": "6615af31fcc19dedd08b642e"
+    }
+  },
+  {
+    "body": "The only way to do great work is to love what you do.",
+    "authorId": {
+      "$oid": "6615af31fcc19dedd08b642e"
+    }
+  },
+  {
+    "body": "Believe in yourself and all that you are. Know that there is something inside you that is greater than any obstacle.",
+    "authorId": {
+      "$oid": "6615af312267d93aaac3ce58"
+    }
+  },
+  {
+    "body": "Your attitude, not your aptitude, will determine your altitude.",
+    "authorId": {
+      "$oid": "6615af312267d93aaac3ce58"
+    }
+  },
+  {
+    "body": "Success is walking from failure to failure with no loss of enthusiasm.",
+    "authorId": {
+      "$oid": "6615af312267d93aaac3ce58"
+    }
+  },
+  {
+    "body": "I'm the best there is at what I do, but what I do best isn't very nice.",
+    "authorId": {
+      "$oid": "6615af310c551fceca365392"
+    }
+  },
+  {
+    "body": "I'm Canadian. You can trust me.",
+    "authorId": {
+      "$oid": "6615af310c551fceca365392"
+    }
+  },
+  {
+    "body": "I'm the best at what I do, but what I do isn't very nice.",
+    "authorId": {
+      "$oid": "6615af310c551fceca365392"
+    }
+  },
+  {
+    "body": "Let your dreams stay big and your worries stay small.",
+    "authorId": {
+      "$oid": "6615af316e246bc9b496d6b2"
+    }
+  },
+  {
+    "body": "You have the power to make a difference.",
+    "authorId": {
+      "$oid": "6615af316e246bc9b496d6b2"
+    }
+  },
+  {
+    "body": "Life isn’t about waiting for the storm to pass; it’s about learning to dance in the rain.",
+    "authorId": {
+      "$oid": "6615af316e246bc9b496d6b2"
+    }
+  },
+  {
+    "body": "I can't control my powers, I can only hope to contain them.",
+    "authorId": {
+      "$oid": "6615af313bd257f89c48118e"
+    }
+  },
+  {
+    "body": "Mutants are the key to our evolution.",
+    "authorId": {
+      "$oid": "6615af313bd257f89c48118e"
+    }
+  },
+  {
+    "body": "Sometimes the hardest thing in the world is to be who you truly are.",
+    "authorId": {
+      "$oid": "6615af313bd257f89c48118e"
+    }
+  },
+  {
+    "body": "With great power comes great responsibility.",
+    "authorId": {
+      "$oid": "6615af31b2a02d6c2a05be55"
+    }
+  },
+  {
+    "body": "It's not who I am underneath, but what I do that defines me.",
+    "authorId": {
+      "$oid": "6615af31b2a02d6c2a05be55"
+    }
+  },
+  {
+    "body": "Being a hero doesn’t mean you’re invincible. It just means that you’re brave enough to stand up and do what’s needed.",
+    "authorId": {
+      "$oid": "6615af31b2a02d6c2a05be55"
+    }
+  },
+  {
+    "body": "Intelligence is a privilege, and it needs to be used for the greater good of people.",
+    "authorId": {
+      "$oid": "6615af31cf9425a6e85c8e6e"
+    }
+  },
+  {
+    "body": "Sometimes it is the people no one imagines anything of who do the things that no one can imagine.",
+    "authorId": {
+      "$oid": "6615af31cf9425a6e85c8e6e"
+    }
+  },
+  {
+    "body": "Education is the most powerful weapon which you can use to change the world.",
+    "authorId": {
+      "$oid": "6615af31cf9425a6e85c8e6e"
+    }
+  },
+  {
+    "body": "Life is like a roll of toilet paper. The closer it gets to the end, the faster it goes.",
+    "authorId": {
+      "$oid": "6615af3174bda64f01441c63"
+    }
+  },
+  {
+    "body": "People fear what they don’t understand.",
+    "authorId": {
+      "$oid": "6615af3174bda64f01441c63"
+    }
+  },
+  {
+    "body": "The true test of a person's character is how they treat the people they don't have to be nice to.",
+    "authorId": {
+      "$oid": "6615af3174bda64f01441c63"
+    }
+  },
+  {
+    "body": "It takes a great deal of bravery to stand up to our enemies, but just as much to stand up to our friends.",
+    "authorId": {
+      "$oid": "6615af318cd3d77a0e10457d"
+    }
+  },
+  {
+    "body": "Happiness can be found even in the darkest of times if one only remembers to turn on the light.",
+    "authorId": {
+      "$oid": "6615af318cd3d77a0e10457d"
+    }
+  },
+  {
+    "body": "It is our choices that show what we truly are, far more than our abilities.",
+    "authorId": {
+      "$oid": "6615af318cd3d77a0e10457d"
+    }
+  },
+  {
+    "body": "Books! And cleverness! There are more important things — friendship and bravery.",
+    "authorId": {
+      "$oid": "6615af317362770a35f5425f"
+    }
+  },
+  {
+    "body": "Just because it's taken you three years to notice, Ron, doesn't mean no one else has spotted I'm a girl!",
+    "authorId": {
+      "$oid": "6615af317362770a35f5425f"
+    }
+  },
+  {
+    "body": "Fear of a name increases fear of the thing itself.",
+    "authorId": {
+      "$oid": "6615af317362770a35f5425f"
+    }
+  },
+  {
+    "body": "You can't go around expecting your friends to sacrifice their lives for you.",
+    "authorId": {
+      "$oid": "6615af3133fcec640d69c0f0"
+    }
+  },
+  {
+    "body": "Don't let the Muggles get you down.",
+    "authorId": {
+      "$oid": "6615af3133fcec640d69c0f0"
+    }
+  },
+  {
+    "body": "Follow the spiders? Follow the spiders? If Hagrid ever gets out of Azkaban, I'll kill him!",
+    "authorId": {
+      "$oid": "6615af3133fcec640d69c0f0"
+    }
+  },
+  {
+    "body": "It does not do to dwell on dreams and forget to live.",
+    "authorId": {
+      "$oid": "6615af3138fa4b9dafbd8bf0"
+    }
+  },
+  {
+    "body": "Happiness can be found, even in the darkest of times, if one only remembers to turn on the light.",
+    "authorId": {
+      "$oid": "6615af3138fa4b9dafbd8bf0"
+    }
+  },
+  {
+    "body": "Words are, in my not-so-humble opinion, our most inexhaustible source of magic.",
+    "authorId": {
+      "$oid": "6615af3138fa4b9dafbd8bf0"
+    }
+  },
+  {
+    "body": "Always.",
+    "authorId": {
+      "$oid": "6615af3127c842b612f13f71"
+    }
+  },
+  {
+    "body": "After all this time? Always.",
+    "authorId": {
+      "$oid": "6615af3127c842b612f13f71"
+    }
+  },
+  {
+    "body": "It is the unknown we fear when we look upon death and darkness, nothing more.",
+    "authorId": {
+      "$oid": "6615af3127c842b612f13f71"
+    }
+  },
+  {
+    "body": "You're a wizard, Harry.",
+    "authorId": {
+      "$oid": "6615af319c56355e7f8873fb"
+    }
+  }
+]
