@@ -37,8 +37,11 @@ class TodosService {
     // Many different ways to edit properties on the object
     if (updateData.description) originalTodo.description = updateData.description
     // originalTodo.description = updateData.description || originalTodo.description // check for falsey, numbers like 0 or bools for false will fail
-    // originalTodo.completed = updateData.completed ?? originalTodo.completed // null check, works similar to || but only changes values why they are undefined or null
-    originalTodo.completed ??= updateData.completed // short hand for the line above
+    // NOTE use this for edits
+    originalTodo.completed = updateData.completed ?? originalTodo.completed // null check, works similar to || but only changes values why they are undefined or null
+
+    // FIXME just kidding this actually doesn't work well. I was getting to fancy, sorry yall
+    // originalTodo.completed ??= updateData.completed
 
     await originalTodo.save() // save changes to database
     return originalTodo // return the now changed update to the controller so it can respond
