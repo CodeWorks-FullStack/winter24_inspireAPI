@@ -8,7 +8,7 @@ export class TodosController extends BaseController {
   constructor() {
     super('api/todos')
     this.router
-      .use(Auth0Provider.getAuthorizedUserInfo)
+      .use(Auth0Provider.getAuthorizedUserInfo) // all routes below this .use, must be authorized.
       .post('', this.createTodo)
       .get('', this.getMyTodos)
       .get('/:todoId', this.getOneTodo)
