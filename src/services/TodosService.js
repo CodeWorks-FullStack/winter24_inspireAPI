@@ -46,6 +46,13 @@ class TodosService {
     await originalTodo.save() // save changes to database
     return originalTodo // return the now changed update to the controller so it can respond
   }
+  async deleteTodo(todoId, userId) {
+    const todoToDelete = await dbContext.Todos.findById(todoId)
+    if (!todoToDelete) throw new Error(`No todo at id: ${todoId}`) // did you find one?
+    if (todoToDelete.creatorId != userId) throw new Forbidden("You cannot delete that, it's not yours")
+    await todoToDelete.deleteOne()
+    return `${todoToDelete.description} was deleted` // what to send back when they delete something? how about a message letting them know it's gone!
+  }
 }
 
 
